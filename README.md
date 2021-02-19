@@ -1,9 +1,8 @@
 # webpack-configuracion-estandar
-Fin de la sección 8
-
+Este es el proyecto inicial para aplicaciones utilizando webpack 4.
 
 ## Nota
-Recuerden que para reconstruir los módulos de node deben de ejecutar este comando
+Para reconstruir los modules de node necesarios.
 
 ```
 npm install
